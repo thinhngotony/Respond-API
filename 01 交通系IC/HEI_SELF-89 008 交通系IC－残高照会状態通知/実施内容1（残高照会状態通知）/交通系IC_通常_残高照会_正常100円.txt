@@ -1,0 +1,7 @@
+{"bizInfo":{"useDateTime":"2018/11/23 12:26:32","tradeStatus":"01",
+"seqNo":""
+,"termIdentityNo":"4971256063176","resultCode":"","merchInfo1":"ÇoÇnÇròAópâ¡ñøìXñº","merchInfo2":"ÇOÇRÅ|ÇPÇQÇRÇSÅ|ÇTÇUÇVÇW","resultCodeDetail":"",
+"cardBalance":"100"
+,"cardNumber":"JE****XXXXXXX0216","centerResultCode":""},"controlInfo":{"termIdentityNo":"11111111110000023","service":"0100007","procResult":"0",
+"outputId":""
+,"dateTime":"2018/11/23 12:26:43","biz":"4","mode":"0"}}

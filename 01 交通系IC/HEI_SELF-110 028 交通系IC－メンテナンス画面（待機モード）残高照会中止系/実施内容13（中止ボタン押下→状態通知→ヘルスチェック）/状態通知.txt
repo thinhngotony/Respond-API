@@ -1,0 +1,2 @@
+{"controlInfo":{"mode":"0","service":"3000004","biz":"0","procResult":"",
+"outputId":"","termIdentityNo":"","dateTime":""},"bizInfo":{"kbn":"C2"}}

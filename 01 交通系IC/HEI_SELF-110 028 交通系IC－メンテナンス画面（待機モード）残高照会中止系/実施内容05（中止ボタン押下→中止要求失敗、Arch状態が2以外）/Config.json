@@ -1,0 +1,100 @@
+{
+   "brand_name"              :["Suica","iD","Edy","WAON","QUICPay","nanaco","PiTaPa"]
+  ,"btn_order_SubtractValue" :["Suica","iD","Edy","WAON","QUICPay","nanaco","PiTaPa"]
+  ,"btn_order_ReadValue"     :["Suica","Edy","WAON","nanaco"]
+  ,"btn_order_CardHistory"   :["PiTaPa"]
+  ,"log_keep_days"           :100
+  ,"customer_error_wait"     :3000
+  ,"color":{
+     "common":{
+        "base"             :"#FFFFFF"
+       ,"title"            :"#828282"
+       ,"signal_void"      :"#BDBDBD"
+       ,"signal_normal"    :"#6079FF"
+       ,"signal_complete"  :"#5CF300"
+       ,"signal_caution"   :"#FFCB0E"
+       ,"signal_calling"   :"#FF2C00"
+       ,"btn_touch"        :"#00DFFF"
+       ,"btn_touch_label"  :"#254474"
+      }
+    ,"customer":{
+        "bg"               :"#E1E1E1"
+       ,"title"            :"#254474"
+       ,"txt"              :"#254474"
+       ,"amount"           :"#000000"
+       ,"borderline"       :"#CBCBCB"
+       ,"btn_line"         :"#254474"
+       ,"brand_btn"        :"#FFFFFF"
+       ,"brand_btn_label"  :"#254474"
+       ,"normal_btn"       :"#EDEDED"
+       ,"normal_btn_label" :"#254474"
+       ,"back_btn"         :"#A9A9A9"
+       ,"back_btn_label"   :"#FFFFFF"
+      }
+    ,"maintenance":{
+        "bg"               :"#CEFFC0"
+       ,"title"            :"#254474"
+       ,"txt"              :"#254474"
+       ,"amount"           :"#000000"
+       ,"borderline"       :"#BDE4B2"
+       ,"btn_line"         :"#254474"
+       ,"brand_btn"        :"#FFFFFF"
+       ,"brand_btn_label"  :"#254474"
+       ,"normal_btn"       :"#FFFFFF"
+       ,"normal_btn_label" :"#254474"
+       ,"back_btn"         :"#A9A9A9"
+       ,"back_btn_label"   :"#FFFFFF"
+       ,"tenkey_btn"       :"#FFFFFF"
+       ,"tenkey_btn_label" :"#000000"
+       ,"clear_btn"        :"#FFF867"
+       ,"clear_btn_label"  :"#000000"
+       ,"txt_attention"    :"#FF4200"
+      }
+   }
+  ,"screen_msg":{
+     "m-ttlc_title"  :"日計を実行してよろしいですか？"
+    ,"m-ttlc_body"   :"「はい」を選ぶと前回日計から現時刻までの集計を印刷します。\n※日計の実行は1営業日につき1回のみ（複数回は不可）※\n※POS精算直前のタイミングで行ってください。※"
+    ,"m-jgc1_title"  :"決済は「成立」でよろしいですか？"
+    ,"m-jgc1_body"   :"「はい」を選ぶと支払レシートを印刷します。\nその後、店員モードにて再度売上を行い、支払は\n「電子マネー」を選択の上、金額を直接入力してください。\n※売上レシート（領収書）もお客様にお渡しください。※"
+    ,"m-jgc2_title"  :"決済は「不成立」でよろしいですか？"
+    ,"m-jgc2_body"   :"「はい」を選ぶと決済はなかったことになります。\nセルフレジモードでの商品登録・決済を初めから\nやり直していただくよう、お客様にご案内ください。"
+    ,"mt-jgc1_title" :"決済は「成立」でよろしいですか？"
+    ,"mt-jgc1_body"  :"「はい」を選ぶと支払レシートを印刷し、\n取引が完了します。"
+    ,"mt-jgc2_title" :"決済は「不成立」でよろしいですか？"
+    ,"mt-jgc2_body"  :"「はい」を選ぶとメンテナンスモードを終了します。\n再度決済を行ってください。"
+   }
+  ,"sound_ready_time"                 :1000
+  ,"sound_interval_time"              :5000
+  ,"sound_repeat_while_cat"           :0
+  ,"operation_mode"                   :"0"
+  ,"maintenance_staff_check_flag"     :"1"
+  ,"customer_display_flag"            :"1"
+  ,"receipt_print_setting"            :"2"
+  ,"healthcheck_timeout"              :60
+  ,"settlement_choice_timeout"        :60
+  ,"settlement_request_timeout"       :180
+  ,"settlement_cancel_timeout"        :60
+  ,"setting_pos_no"                   :"09"
+  ,"port_name"                        :"COM6"
+  ,"bau_rate"                         :115200
+  ,"parity_check"                     :"None"
+  ,"receipt_print_customer_setting"   :"1"
+  ,"receipt_print_merchant_setting"   :"0"
+  ,"receipt_print_company_setting"    :"0"
+  ,"receipt_print_aggregate_setting"  :"0"
+  ,"receipt_print_aggregate_title"    :"集計用"
+  ,"daily_total_request_timeout"      : 120
+  ,"settlement_close_time"            : 5
+  ,"settlement_close_time_01"         : 5
+  ,"settlement_close_time_02"         : 10
+  ,"receipt_print_customer_unfinished_setting"   : "0"
+  ,"receipt_print_merchant_unfinished_setting"   : "0"
+  ,"receipt_print_company_unfinished_setting"    : "0"
+  ,"receipt_print_aggregate_unfinished_setting"  : "0"
+  ,"selling_receipt_print_control_setting"       : "0"
+  ,"journal_keep_days"                 : 100
+  ,"daily_total_keep_days"             : 100
+  ,"waon_point_add"                    : "1"
+  ,"waon_balance_payment"              : "2"
+  ,"btn_cancel_SubtractValue" :["iD","QUICPay","PiTaPa"]
+}

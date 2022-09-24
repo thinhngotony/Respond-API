@@ -1,0 +1,12 @@
+{"controlInfo":{
+"mode":"0",
+"service":"4100007",
+"biz":"9",
+"procResult":"9",
+"errorCode":"TFWL0004",
+"outputId":"",
+"errorCodeDetail1":"12345678",
+"errorCodeDetail2":"123456789012345",
+"termIdentityNo":"11111111110000023",
+"dateTime":"2018/11/27 13:45:10"
+}}

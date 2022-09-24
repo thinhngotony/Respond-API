@@ -1,0 +1,29 @@
+{"controlInfo":{
+"mode":"0",
+"service":"4100007",
+"biz":"9",
+"procResult":"0",
+"outputId":"",
+"termIdentityNo":"11111111110000023",
+"dateTime":"2018/11/27 13:45:10"
+},
+"bizInfo":{
+
+"controlInfo":{
+"outputId":"",
+"mode":"0",
+"service":"0100007",
+"biz":"1",
+"procResult":"9",
+"errorCode":"TFWL0004",
+"errorCodeDetail1":"TKOE9999",
+"errorCodeDetail2":"9999",
+"termIdentityNo":"11111111110000021",
+"dateTime":"2018\/04\/12 15:58:29"
+
+},
+"bizInfo":null
+
+
+}
+}

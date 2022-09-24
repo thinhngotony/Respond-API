@@ -1,0 +1,8 @@
+{"bizInfo":{"resultCode":"114","info":"テストテストテスト\nテストテストテスト","merchInfo1":"テスト加盟店","merchInfo2":"0312345678","termIdentityNo":"4971256063220","useDateTime":"2016/12/09 15:29:41","cashConbiFlag":"00","resultCodeDetail":"200000000",
+"seqNo":""
+,"centerResultCode":"T0104"},"controlInfo":{"termIdentityNo":"11111111110000002","service":"0100007",
+"procResult":"6",
+"outputId":""
+,"dateTime":"2016/12/09 15:30:07",
+"biz":"1"
+,"mode":"0"}}
