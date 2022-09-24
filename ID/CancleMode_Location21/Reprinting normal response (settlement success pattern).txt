@@ -1,0 +1,47 @@
+{
+  "controlInfo": {
+    "mode": 0,
+    "service": "4100008",
+    "biz": 9,
+    "procResult": 0,
+    "outputId": "",
+    "termIdentityNo": "0",
+    "dateTime": "2022/06/21 14:32:31"
+  },
+  "bizInfo": {
+    "controlInfo": {
+      "mode": 0,
+      "service": "0100008",
+      "biz": 2,
+      "procResult": 0,
+      "outputId": "",
+      "termIdentityNo": "",
+      "dateTime": "2022/06/21 14:32:31"
+    },
+    "bizInfo": {
+      "procSerialNo": "1234",
+      "useDateTime": "2018/11/23 14:58:03",
+      "aggregate": "6900111100000000",
+      "tradeStatus": "01",
+      "seqNo": "",
+      "slipNo": "00092",
+      "goods": "108",
+      "approvalNo": "1234",
+      "termIdentityNo": "4971256063176",
+      "merchant": "6900111100000000",
+      "customer": "1234567891110010",
+      "company1": "6900123456789000",
+      "company2": "1111123456789000",
+      "company3": "0000123456789000",
+      "company4": "0010123456789000",
+      "expDate": "XX/XX",
+      "taxOther": "80",
+      "info": "��L�̒ʂ�A���コ��܂����B \n�����p���肪�Ƃ��������܂����B \n�܂��̂����X���҂����Ă���܂��B",
+      "amount": "1000",
+      "accNo": "******XXXXXX0010",
+      "totalAmount": "1080",
+      "merchInfo1": "�o�n�r�A�p�����X��",
+      "merchInfo2": "�O�R�|�P�Q�R�S�|�T�U�V�W"
+    }
+  }
+}

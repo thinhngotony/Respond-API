@@ -1,0 +1,47 @@
+{
+  "controlInfo": {
+    "mode": 0,
+    "service": "4100008",
+    "biz": 9,
+    "procResult": 0,
+    "outputId": "",
+    "termIdentityNo": "0",
+    "dateTime": "2022/06/21 14:32:31"
+  },
+  "bizInfo": {
+    "controlInfo": {
+      "mode": 0,
+      "service": "0100008",
+      "biz": 1,
+      "procResult": 0,
+      "outputId": "",
+      "termIdentityNo": "",
+      "dateTime": "2022/06/21 14:32:31"
+    },
+    "bizInfo": {
+      "procSerialNo": "1234",
+      "useDateTime": "2018/11/23 14:58:03",
+      "aggregate": "6900111100000000",
+      "tradeStatus": "01",
+      "seqNo": "",
+      "slipNo": "00092",
+      "goods": "108",
+      "approvalNo": "1234",
+      "termIdentityNo": "4971256063176",
+      "merchant": "6900111100000000",
+      "customer": "1234567891110010",
+      "company1": "6900123456789000",
+      "company2": "1111123456789000",
+      "company3": "0000123456789000",
+      "company4": "0010123456789000",
+      "expDate": "XX/XX",
+      "taxOther": "80",
+      "info": "è„ãLÇÃí ÇËÅAîÑè„Ç≥ÇÍÇ‹ÇµÇΩÅB \nÇ≤óòópÇ†ÇËÇ™Ç∆Ç§Ç≤Ç¥Ç¢Ç‹ÇµÇΩÅB \nÇ‹ÇΩÇÃÇ≤óàìXÇ®ë“ÇøÇµÇƒÇ®ÇËÇ‹Ç∑ÅB",
+      "amount": "1000",
+      "accNo": "******XXXXXX0010",
+      "totalAmount": "1080",
+      "merchInfo1": "ÇoÇnÇròAópâ¡ñøìXñº",
+      "merchInfo2": "ÇOÇRÅ|ÇPÇQÇRÇSÅ|ÇTÇUÇVÇW"
+    }
+  }
+}
