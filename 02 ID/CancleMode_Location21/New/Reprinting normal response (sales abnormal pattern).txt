@@ -10,6 +10,8 @@
 "bizInfo":{
 
 "bizInfo":{
+"tradeContent": "2",
+"slipNo": "01234",
 "seqNo":"",
 "resultCode":"123",
 "resultCodeDetail":"123456789",
